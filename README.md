@@ -1,6 +1,6 @@
 ### Oii, 👋
 
-Eu Sou a Taisa Braga, estudante de tecnologia e Estagiária Software Developer
+Eu Sou a Taisa, estudante e Software Developer
 
 
 <div align="center">
