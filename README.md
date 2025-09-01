@@ -1,6 +1,6 @@
-### Oii, 👋
+### Hi, 👋
 
-Eu Sou a Taisa, estudante e Software Developer
+I'm Taisa and I'm a Software Developer
 
 
 <div align="center">
